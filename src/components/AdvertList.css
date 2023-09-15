@@ -1,0 +1,11 @@
+.list-wrapper {
+    list-style: none;
+    width: 1200px;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+}
